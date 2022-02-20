@@ -1,0 +1,29 @@
+[
+    {
+        "id": "D26B2E12-39FC-4791-A855-3A3427AC5EE9:61t3fro7jbj3dvv0t5h6u9a059@google.com",
+        "title": "ABP Community Talks 2022.1: Microservice Development",
+        "description": "Galip Tolga Erdem, Enis Necipoğlu and Halil İbrahim Kalkan will talk about the eShopOnAbp solution and explain microservice development with the ABP Framework.This event will be in English.",
+        "color": "FF9E9E9E",
+        "date": "2022-01-21T00:00:00.000",
+        "startTime": "2022-01-21T01:00:00.000",
+        "endTime": "2022-01-21T02:30:00.000"
+    },
+    {
+        "id": "67ADA0D2-F64B-4FC7-A73B-CA327ADB5A92:040000008200E00074C5B7101A82E008000000004B654601FD0CD8010000000000000000100000000D8C25E3F66BF9449C758AF3E2F3AFA2",
+        "title": "學測-第一天",
+        "description": "考試地點:永平高中.",
+        "color": "FF9E9E9E",
+        "date": "2022-01-21T00:00:00.000",
+        "startTime": "2022-01-21T08:00:00.000",
+        "endTime": "2022-01-21T16:00:00.000"
+    },
+    {
+        "id": "D26B2E12-39FC-4791-A855-3A3427AC5EE9:61t3fro7jbj3dvv0t5h6u9a059@google.com",
+        "title": "ABP Community Talks 2022.1: Microservice Development",
+        "description": "Galip Tolga Erdem, Enis Necipoğlu and Halil İbrahim Kalkan will talk about the eShopOnAbp solution and explain microservice development with the ABP Framework.This event will be in English.",
+        "color": "FF9E9E9E",
+        "date": "2022-01-21T00:00:00.000",
+        "startTime": "2022-01-21T01:00:00.000",
+        "endTime": "2022-01-21T02:30:00.000"
+    }
+]

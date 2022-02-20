@@ -1,0 +1,86 @@
+[
+  {
+    "id": "9E3FF2E1-EF22-4D95-8F2F-C9C50786E6C8",
+    "group": "pochien.kao Outlook",
+    "name": "台灣假日",
+    "isReadOnly": false,
+    "isSelected": false
+  },
+  {
+    "id": "C4131747-EC90-4D3C-8DC7-8F5E9A8E89B5",
+    "group": "pochien.kao Outlook",
+    "name": "生日",
+    "isReadOnly": false,
+    "isSelected": false
+  },
+  {
+    "id": "36D449D4-83AA-4E95-81C4-7D1F0812A276",
+    "group": "pochien.kao Outlook",
+    "name": "行事曆",
+    "isReadOnly": false,
+    "isSelected": false
+  },
+  {
+    "id": "EC30D300-3DA5-4F3F-A6B9-BDB97FF604E3",
+    "group": "Subscribed Calendars",
+    "name": "台灣節日",
+    "isReadOnly": true,
+    "isSelected": false
+  },
+  {
+    "id": "2C29DB03-5306-4801-B8AD-739939772814",
+    "group": "Pochien720 hotmail",
+    "name": "台灣假日",
+    "isReadOnly": false,
+    "isSelected": false
+  },
+  {
+    "id": "87658A1B-02EC-42DA-9B38-07257F29AE6A",
+    "group": "Pochien720 hotmail",
+    "name": "生日",
+    "isReadOnly": false,
+    "isSelected": false
+  },
+  {
+    "id": "E6A325B3-D1FF-4542-8A92-D8B3E31CBD8D",
+    "group": "Pochien720 hotmail",
+    "name": "行事曆",
+    "isReadOnly": false,
+    "isSelected": false
+  },
+  {
+    "id": "A56AE758-6027-42B4-90F9-F0A02E5EFBE3",
+    "group": "Pochien720 Gmail",
+    "name": "Contacts",
+    "isReadOnly": true,
+    "isSelected": false
+  },
+  {
+    "id": "62705707-0C85-44E2-B404-E68CF3B58A6B",
+    "group": "Pochien720 Gmail",
+    "name": "pochien720@gmail.com",
+    "isReadOnly": false,
+    "isSelected": false
+  },
+  {
+    "id": "B660E12B-1BDA-4E75-8A81-DAC0B88F99B7",
+    "group": "Pochien720 Gmail",
+    "name": "台灣的節慶假日",
+    "isReadOnly": true,
+    "isSelected": false
+  },
+  {
+    "id": "858EC55D-2C47-48F6-AC70-4E09CFE6B697",
+    "group": "Other",
+    "name": "Birthdays",
+    "isReadOnly": true,
+    "isSelected": false
+  },
+  {
+    "id": "D6E4838A-0D36-4E82-8E83-F75D4920DD83",
+    "group": "Other",
+    "name": "Siri Suggestions",
+    "isReadOnly": true,
+    "isSelected": false
+  }
+]
